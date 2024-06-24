@@ -55,6 +55,10 @@ const Navbar = () => {
             path: "/makeup"
         },
         {
+            pathName: "Comments",
+            path: "/comments"
+        },
+        {
             pathName: "About",
             path: "/about"
         },
